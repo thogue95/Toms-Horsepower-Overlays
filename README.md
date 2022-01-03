@@ -1,6 +1,8 @@
 # Toms-Horsepower-Overlays
 Horse Power Overlay to show when you are peaking on horsepower
 
+Update: Corrected the spelling that is seen in the pic below.
+
 READ THIS OR YOU WILL THINK THE OVERLAY IS BROKEN!!!  
 
 I have created two views of the same data so you should only run one of these depending on your own personal preference.  The overlays show you when your gearing has you peaking on horsepower.  The overlays display the percentage of peak horsepower as well as the instant horsepower value.  We want to reach 100% of peak before the end of the straight, but not too soon either.  The ramp of horsepower is initially quick but then it slows down the closer we get to 100% which is why we only care to see the 80 to 100% range.  The guages start at yellow then go to orange and goes green at 99.9%.
