@@ -10,3 +10,5 @@ It will look like it is broken when you leave the pits because it is trying to f
 Hitting peak horsepower does not mean peak RPM as you will see your RPMs going up.  There is a good video on Busters Corner going over the horsepower in Motec if you want more background information.
 
 Enjoy.
+
+![Horsepower Overlays](https://user-images.githubusercontent.com/8271391/147970929-cde0e3bc-60c7-4f72-8b90-61860e4df32b.png)
