@@ -1,4 +1,10 @@
 # Toms-Horsepower-Overlays
+Update 2-2-2022:  Adding a HP bar overlay that includes torque.
+
+![Horsepower_Torque_Bar](https://user-images.githubusercontent.com/8271391/152194930-6246218f-82de-442f-9296-e1ba2babd64f.png)
+
+ 
+
 Horse Power Overlay to show when you are peaking on horsepower
 
 Update: Corrected the spelling that is seen in the pic below.
